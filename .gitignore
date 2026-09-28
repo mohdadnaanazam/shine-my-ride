@@ -1,0 +1,10 @@
+node_modules/
+.DS_Store
+.wrangler/
+dist/
+*.log
+.env
+.env.*
+.cf-token
+pages.json
+wrangler-account.json
